@@ -18,9 +18,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "dependencies": {
+    "brain-games": "^1.1.5",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
