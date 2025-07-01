@@ -4,3 +4,6 @@
 
 ## Запись сессии №1
 [brain-even](https://asciinema.org/a/LFp2NuIZPTPndj95T1i1VyRD4)
+
+## Запись сессии №2
+[brain-calc](https://asciinema.org/a/T0HcYJj8iqJeFUNyQ5FdJvGxh)
