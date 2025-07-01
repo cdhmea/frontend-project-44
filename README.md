@@ -10,3 +10,6 @@
 
 ## Запись сессии №3
 [brain-gcd](https://asciinema.org/a/WriexVIClryVXCBpMuA0uYFrg)
+
+## Запись сессии №4
+[brain-progression](https://asciinema.org/a/CxqWce5SrFs8CFRX3HNvn4RSw)
