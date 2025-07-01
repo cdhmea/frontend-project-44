@@ -7,3 +7,6 @@
 
 ## Запись сессии №2
 [brain-calc](https://asciinema.org/a/T0HcYJj8iqJeFUNyQ5FdJvGxh)
+
+## Запись сессии №3
+[brain-gcd](https://asciinema.org/a/WriexVIClryVXCBpMuA0uYFrg)
