@@ -1,7 +1,5 @@
 #!/usr/bin/env node
+import { checkEven, description } from '../src/games/even.js'
+import startGame from '../src/index.js'
 
-import provideName from '../src/cli.js'
-import checkEven from '../src/even.js'
-
-const name = provideName()
-checkEven(name)
+startGame(checkEven, description)
