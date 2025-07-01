@@ -13,3 +13,6 @@
 
 ## Запись сессии №4
 [brain-progression](https://asciinema.org/a/CxqWce5SrFs8CFRX3HNvn4RSw)
+
+## Запись сессии №5
+[brain-prime](https://asciinema.org/a/xdaGQDcRJ8Em7NYnsYq0Eb3Ue)
