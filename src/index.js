@@ -1,4 +1,4 @@
-import provideName from './games/cli.js'
+import provideName from './cli.js'
 import readlineSync from 'readline-sync'
 
 export default function startGame(game, description) {
